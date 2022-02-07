@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there  👋, I'm Juan Pablo Muñiz 🧑‍💻</h1>
 
-Fullstack software developer, well-versed in technologies like Javascript, React, SASS, NodeJS, Angular, Google Cloud Platform, and more. I create awesome solutions that help make people's daily lives easier, I continuously pursue more skills and I share my knowledge a cross blogs and communities. I'm looking for new challenges and opportunities. Currently, I am studying at OSSU, Platzi and Udemy.
+Fullstack software developer, well-versed in technologies like Javascript, React, SASS, NodeJS, Angular, Google Cloud Platform, and more. I create awesome solutions that help make people's daily lives easier. I'm looking for new challenges and opportunities. Currently, I am studying at OSSU, Platzi, Odin project and Udemy.
 
 <p align='center'>
   <a href=""><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,6 +35,15 @@ Fullstack software developer, well-versed in technologies like Javascript, React
 </p>
 
 <hr />
+<h4>:books:&nbsp;&nbsp;&nbsp;Some of my favorite courses</h4>
+ <ul>
+  <li>CS50 Harvard Courses</li>
+  <li>The Complete Web Development - Dr. Angela Yu</li>
+  <li>The Complete JavaScript Course - Jonas Schmedtmann</li>
+</ul>
+
+<hr />
+
 <h4>📈&nbsp;&nbsp;&nbsp;Github Stats </h4>
 
 ![Juan's github stats](https://github-readme-stats.vercel.app/api?username=devleon00&show_icons=true&theme=tokyonight)
@@ -43,3 +52,4 @@ Fullstack software developer, well-versed in technologies like Javascript, React
 
 ![Visitor Count](https://profile-counter.glitch.me/devleon00/count.svg)
 <hr />
+
