@@ -1,14 +1,16 @@
-<h1 align='center'>Hi there  👋, I'm Juan Pablo Muñiz 🧑‍💻</h1>
+![Imagen de perfil](./yo-01.png)
 
-Fullstack software developer, well-versed in technologies like Javascript, React, SASS, NodeJS, Angular, Google Cloud Platform, and more. I create awesome solutions that help make people's daily lives easier. I'm looking for new challenges and opportunities. Currently, I am studying at OSSU, Platzi, Odin project and Udemy.
+<h2 align="center"> I like to see what's inside things. Some call it destruction. I call it learning. </h2>
 
-<p align='center'>
+<!-- <p align='center'>
   <a href=""><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
 
-<hr>
+
+
+
 
 <h4>⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt</h4>
 <p >
