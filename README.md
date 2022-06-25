@@ -1,4 +1,4 @@
-![Imagen de perfil](./yo-01.png)
+![Imagen de perfil](./perfil.png)
 
 <h2 align="center"> I like to see what's inside things. Some call it destruction. I call it learning. </h2>
 
