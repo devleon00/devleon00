@@ -1,6 +1,6 @@
 ![Imagen de perfil](./perfil2.png)
 
-<h2 align="center"> I like to see what's inside things. Some call it destruction. I call it learning. </h2>
+<h2 align="center"> I like to see what's inside things. Some call it destruction... I call it learning</h2>
 
 <!-- <p align='center'>
   <a href=""><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
